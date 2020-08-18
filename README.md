@@ -4,3 +4,4 @@
 สารบัญ
 
 1. [โครงสร้างข้อมูล (Data Structure)](https://github.com/thiraphat-ps-dev/MyLibrary/wiki/DataStructure)
+1. [ขั้นตอนลำดับวิธี (Algorithm)](https://github.com/thiraphat-ps-dev/MyLibrary/wiki/Algorithm)
